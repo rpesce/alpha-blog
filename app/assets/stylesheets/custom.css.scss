@@ -66,6 +66,12 @@ $navbar-default-bg: white;
   padding-bottom: 15px;
 }
 
+.listing {
+  list-style: none;
+  padding-left: 0;
+  
+}
+
 .footer {
   margin-top: 45px;
   padding-top: 5px;
@@ -98,6 +104,5 @@ $navbar-default-bg: white;
 
 body { 
   font-family: helvetica, sans-serif;
-  background-color: lightgrey;
 }
 
